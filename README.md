@@ -6,11 +6,11 @@
 # How to use:
 1. Download EmoTracker at https://emotracker.net/
 2. Download the code as a zip file.  
-<img src="https://raw.githubusercontent.com/ChawkHub/eldenringtracker/master/download.PNG">  
-3. Locate your EmoTracker folder in file explorer (default is in your Documents folder). <br>
+    <img src="https://raw.githubusercontent.com/ChawkHub/eldenringtracker/master/download.PNG">  
+3. Locate your EmoTracker folder in file explorer (default is in your Documents folder). 
 4. Extract the zip file. Open the unzipped folder and move the `elden_ring_tracker_chawk` folder into the `\EmoTracker\packs` folder. 
-   - Note: Make sure you don't drag the entire extracted folder into the packs folder. The location should look like this: `\Emotracker\packs\elden_ring_tracker_chawk` <br>
-5. Open EmoTracker. Click the gear, then "Installed Packages." Elden Ring Tracker will be located under "Other." <br>
+    - Note: Make sure you don't drag the entire extracted folder into the packs folder. The location should look like this: `\Emotracker\packs\elden_ring_tracker_chawk` 
+5. Open EmoTracker. Click the gear, then "Installed Packages." Elden Ring Tracker will be located under "Other."
 
 # Features
 This tracker is intended to help track key items as defined by the randomizer mod. 
