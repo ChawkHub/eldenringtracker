@@ -5,5 +5,47 @@
 	"loop": "true",
 	"img": "images/godrick.png",
 	"codes": "godrick"
+  },
+  {
+    "name": "Rykard",
+	"type": "toggle",
+	"loop": "true",
+	"img": "images/rykard.png",
+	"codes": "rykard"
+  },
+  {
+    "name": "Radahn",
+	"type": "toggle",
+	"loop": "true",
+	"img": "images/radahn.png",
+	"codes": "radahn"
+  },
+  {
+    "name": "Morgott",
+	"type": "toggle",
+	"loop": "true",
+	"img": "images/morgott.png",
+	"codes": "morgott"
+  },
+  {
+    "name": "Mohg",
+	"type": "toggle",
+	"loop": "true",
+	"img": "images/mohg.png",
+	"codes": "mohg"
+  },
+  {
+    "name": "Malenia",
+	"type": "toggle",
+	"loop": "true",
+	"img": "images/malenia.png",
+	"codes": "malenia"
+  },
+  {
+    "name": "Unborn",
+	"type": "toggle",
+	"loop": "true",
+	"img": "images/unborn.png",
+	"codes": "unborn"
   }
 ]

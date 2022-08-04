@@ -10,10 +10,10 @@
 		  {
 		    "type": "itemgrid",
 	        "h_alignment": "center",
-            "item_size": 36,
+            "item_size": 50,
 	        "item_margin": "2, 2, 2, 2",
             "rows": [
-              [ "godrick", "" ],
+              [ "godrick", "rykard", "radahn", "morgott", "mohg", "malenia" ],
 			  [ "", ""]
             ]
 		  }
@@ -23,7 +23,7 @@
   },
   "tracker_default": {
     "type": "container",
-    "width": 314,
+    "width": 324,
     "background": "#212121",
     "content": {
       "type": "layout",
