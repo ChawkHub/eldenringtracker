@@ -5,8 +5,7 @@
 
 # How to use:
 1. Download EmoTracker at https://emotracker.net/
-2. Download the code as a zip file.
-<img src="https://raw.githubusercontent.com/ChawkHub/eldenringtracker/master/download.PNG">
+2. Download the code as a zip file. <img src="https://raw.githubusercontent.com/ChawkHub/eldenringtracker/master/download.PNG">
 3. Locate your EmoTracker folder in file explorer (default is in your Documents folder).
 4. Extract the zip file. Open the unzipped folder and move the `elden_ring_tracker_chawk` folder into the `\EmoTracker\packs` folder. 
    - Note: Make sure you don't drag the entire extracted folder into the packs folder. The location should look like this: `\Emotracker\packs\elden_ring_tracker_chawk` 
