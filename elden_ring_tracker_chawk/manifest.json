@@ -1,0 +1,14 @@
+{
+  "name": "Elden Ring Tracker",
+  "game_name": "Elden Ring",
+  "platform": "pc",
+  "package_version": "1.0.0",
+  "package_uid": "eldenringtracker_chawk",
+  "layout_engine_version": "1.0",
+  "author": "Chawk",
+  "variants": {
+    "standard": {
+      "display_name": "Key Item Randomizer"
+    }
+  }
+}

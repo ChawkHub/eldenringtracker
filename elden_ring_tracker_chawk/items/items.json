@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Godrick",
+	"type": "toggle",
+	"loop": "true",
+	"img": "images/godrick.png",
+	"codes": "godrick"
+  }
+]
