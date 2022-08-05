@@ -15,7 +15,7 @@
 # Features
 This tracker is intended to help track key items as defined by the randomizer mod. 
 If you use the important locations option: Here is a list of [important locations](https://www.nexusmods.com/eldenring/articles/43) where the key items can be found.
-##Below are the available presets and the features tracked
+### Below are the available presets and the features tracked
 ### Standard preset
 - All 7 great runes
 - The following keys: Academy Glintstone (AG), Discarded Palace (DP), Drawing-Room (DR), Imbued Sword (IS), Rusty (R)
